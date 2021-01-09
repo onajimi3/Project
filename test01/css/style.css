@@ -97,7 +97,7 @@ img {
 
 /* .mv ------------------- */
 .mv{
-  background-image: url(../img/main-visual.png);
+  background-image: url(../img/main-visual@2x.png);
   background-size: cover;
   background-position: center;
   height: 551px;
@@ -243,7 +243,7 @@ position: relative;
 
 /* .jc ------------------- */
 .jc{
-  background-image: url(../img/footer-visual.png);
+  background-image: url(../img/footer-visual@2x.png);
   background-size: cover;
   background-position:center;
 
